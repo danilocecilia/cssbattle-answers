@@ -1,2 +1,2 @@
 # cssbattle-answers
-Here are my answers to some challenges from CSS Battle
+Here are my solutions to some challenges from CSS Battle
